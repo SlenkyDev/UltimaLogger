@@ -30,10 +30,14 @@
   },
   "homepage": "https://github.com/SlenkyDev/UltimaLogger#readme",
   "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
     "discord.js": "^12.5.3",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "gcommands": "^2.0.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1"
   }
 }
