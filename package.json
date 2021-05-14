@@ -1,0 +1,39 @@
+{
+  "name": "ultimalogger",
+  "version": "1.0.0",
+  "description": "Free open-source advanded self-hosted Discord logging system.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlenkyDev/UltimaLogger.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "logging",
+    "system",
+    "ultimalogger",
+    "log",
+    "logger",
+    "discord",
+    "bot",
+    "discord.js",
+    "discord"
+  ],
+  "author": "Slenky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlenkyDev/UltimaLogger/issues"
+  },
+  "homepage": "https://github.com/SlenkyDev/UltimaLogger#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "gcommands": "^2.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
